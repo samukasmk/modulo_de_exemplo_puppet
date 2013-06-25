@@ -26,6 +26,9 @@ node 'NOME_DA_MAQUINA_CLIENTE' {
 } 
 ```
 
+Forte Abraço Pai!
 
-    
+Qualquer coisa avisa ae!
+
+Samuka~SMk
 
