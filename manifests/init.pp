@@ -1,5 +1,5 @@
 define modulo_de_exemplo_puppet ( 
-  $meu_parametro = "Falaa Paiii! Aqui é seu primeiro parametro! esse Campo é o valor default",
+  $meu_primeiro_parametro = "Falaa Paiii! Aqui é seu PRIMEIRO parametro! esse Campo é o valor default",
 ) {
   notify { "Exemplo de Notificação, lendo parametros":
   }
