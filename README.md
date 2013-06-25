@@ -5,7 +5,8 @@ Eae Blz? conforme o prometido ta ae seu exemplo de modulo do puppet!!
  1 - Só Clonar esse projeto na sua pasta de modulos de seu puppet (master/server)
 
 ```bash
-#git clone https://github.com/samukasmk/modulo_de_exemplo_puppet.git
+# cd /etc/puppet/modules
+# git clone https://github.com/samukasmk/modulo_de_exemplo_puppet.git
 ```
 
 2 - Declarar em seu inventário (site.pp) o modulo que será usado na maquina cliente:
