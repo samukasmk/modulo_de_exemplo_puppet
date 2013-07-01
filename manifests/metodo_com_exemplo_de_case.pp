@@ -1,4 +1,4 @@
-define modulo_de_exemplo_puppet::metodo_com_exemplo_de_case (
+define sample_mod::metodo_com_exemplo_de_case (
   $meu_parametro_type = 'LVM',
 ){
   

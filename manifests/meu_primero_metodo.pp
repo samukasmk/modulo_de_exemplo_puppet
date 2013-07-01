@@ -1,4 +1,4 @@
-define modulo_de_exemplo_puppet::meu_primero_metodo ( 
+define sample_mod::meu_primero_metodo ( 
   $meu_segundo_parametro = "Falaa Paiii! Aqui é seu SEGUNDOOO parametro! esse Campo é o valor default",
 ) {
   notify { "Exemplo de Notificação, lendo O meu Segundo parametro":
